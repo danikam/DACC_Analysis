@@ -1,8 +1,12 @@
 # DACC Optimization and Analysis
 
-This optimization and analysis framework is designed to assist with tuning the settings of the UREC carbon capture device.
+This optimization and analysis framework is designed to assist with tuning the settings of the UREC carbon capture device. The code runs in an interactive Jupyter python notebook. 
 
-## Files in the repository
+## Contact 
+In case of any questions, bug reports, or feature requests, don't hesitate to email the developer:
+* Danika MacDonell (danika.m16@gmail.com)
+
+## Description of files in this repository
 
 * <b>Jupyter notebook: </b> The code is written in a python jupyter notebook [index.ipynb](./index.ipynb). 
 * <b>Environment specs: </b> The python packages needed for the python notebook to run are specified in [environment.yml](./environment.yml). 
