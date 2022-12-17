@@ -19,11 +19,15 @@ Click the following link to open the python notebook interactively on a binder s
 
 Please note that if the code in this repo has been updated since it was last opened on a binder server, it will need a few minutes to re-build before it can launch as an interactive notebook. Hang tight! In this case, the page will look something like this while it's re-building:
 
+![alt text](./images/binder_rebuilding.png)
+
 ## Running the code in the python notebook
 
-The code in the notebook can be executed interactively, one cell at a time. Note that all cells prior to the given cell should have been executed at least once to ensure that the given cell will execute properly.
+The code in the notebook can be executed interactively, one cell at a time. A given cell can be executed either by pressing the run button (▶) in the top panel, or by using the keyboard shortcut `Shift-Enter`. Just note that all cells prior to the given cell should have been executed at least once to ensure that the given cell will execute properly. 
 
 ### Making changes on-the-fly
 
-Users can make modifications to the code in the notebook hosted on the binder server and test these changes on-the-fly by re-running the cell. However, please note that any changes made to the notebook on binder will be lost once you end the binder session. Please contact Danika (danika.m16@gmail.com) to discuss options for modifying the code locally and 
+Users can make modifications to the code in the notebook hosted on the binder server and test these changes on-the-fly by re-running the cell. However, please note that any changes made to the notebook on binder will be lost once you end the binder session. 
+
+Please contact Danika (danika.m16@gmail.com) to discuss options for modifying the code locally and pushing your changes to this github repo.
 
