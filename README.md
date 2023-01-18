@@ -25,7 +25,7 @@ Please note that if the code in this repo has been updated since it was last ope
 
 The code in the notebook can be executed interactively, one cell at a time. A given cell can be executed either by pressing the run button (▶) in the top panel, or by using the keyboard shortcut `Shift-Enter`. Just note that all cells prior to the given cell should have been executed at least once to ensure that the given cell will execute properly. 
 
-You can also run all the cells in succession by clicking the 'Kernel' menu at the top, then selecting the 'Restart & Run All' option.
+You can also run all the cells in succession by clicking the 'Kernel' menu at the top, then selecting the 'Restart and Run All Cells...' option.
 
 ### Making changes on-the-fly
 
