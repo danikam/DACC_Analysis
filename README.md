@@ -13,7 +13,7 @@ In case of any questions, bug reports, or feature requests, don't hesitate to em
 
 ## Opening the python notebook
 
-Click the following link to open the python notebook interactively on a binder server:
+Click the following 'launch binder' icon to open the python notebook interactively on a binder server:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danikam/DACC_Analysis/main?labpath=index.ipynb)
 
@@ -24,6 +24,8 @@ Please note that if the code in this repo has been updated since it was last ope
 ## Running the code in the python notebook
 
 The code in the notebook can be executed interactively, one cell at a time. A given cell can be executed either by pressing the run button (▶) in the top panel, or by using the keyboard shortcut `Shift-Enter`. Just note that all cells prior to the given cell should have been executed at least once to ensure that the given cell will execute properly. 
+
+You can also run all the cells in succession by clicking the 'Kernel' menu at the top, then selecting the 'Restart & Run All' option.
 
 ### Making changes on-the-fly
 
